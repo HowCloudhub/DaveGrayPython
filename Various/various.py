@@ -36,3 +36,10 @@ if temp >= 10 and temp <= 30:
     print("The weather is good!!")
 else:
     print("Weather is bad")
+
+
+x = "Munir"
+y = x[::-1]
+z= y.decode('utf-8')
+print(y)
+print(z)
